@@ -1,6 +1,3 @@
-# Iouri Spiridonov
-
-**Independent Researcher · Numerical Computing · CPU Architecture**
 
 Newmarket, ON, Canada
 
