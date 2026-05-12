@@ -1,5 +1,6 @@
+**Independent Researcher · Numerical Computing · CPU Architecture**
 
-## Research Focus
+Newmarket, ON, Canada
 
 The IEEE 754 floating-point standard has served computing well for decades — but it carries fundamental limitations that become increasingly problematic in modern hardware design: subnormal number penalties, signed zero ambiguity, FPU dependency, and fixed precision.
 
@@ -17,8 +18,6 @@ This site presents research on an alternative approach: the **NPAt format** — 
 - **No subnormal numbers** — all values handled by the same algorithm
 - **Explicit exact zero** — resolves ±0 ambiguity in IEEE 754
 - **User-controlled precision** — parameter `t` from 4 to 53 bits
-
-U.S. Patent Pending (USPTO № 19/254,239)
 
 ### Repositories
 
