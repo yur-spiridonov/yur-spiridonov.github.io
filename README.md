@@ -1,8 +1,4 @@
 
-Newmarket, ON, Canada
-
----
-
 ## Research Focus
 
 The IEEE 754 floating-point standard has served computing well for decades — but it carries fundamental limitations that become increasingly problematic in modern hardware design: subnormal number penalties, signed zero ambiguity, FPU dependency, and fixed precision.
