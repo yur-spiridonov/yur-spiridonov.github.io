@@ -30,7 +30,7 @@ This site presents research on an alternative approach: the **NPAt format** — 
 
 ---
 
-## IEEE 754: Known Problems
+## IEEE 754: Problems
 
 The posts on this site examine specific limitations of the IEEE 754 standard and how the NPAt format addresses them:
 
