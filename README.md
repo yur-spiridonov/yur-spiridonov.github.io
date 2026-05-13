@@ -1,10 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
-<style>
-body { font-family: "Merriweather", Georgia, serif !important; color: #111 !important; font-size: 16px !important; line-height: 1.8 !important; }
-h1,h2,h3 { font-weight: 700 !important; color: #000 !important; }
-a { color: #0044bb !important; }
-p { color: #111 !important; }
-</style>
+
 **Independent Researcher · Numerical Computing · CPU Architecture**
 
 Newmarket, ON, Canada
