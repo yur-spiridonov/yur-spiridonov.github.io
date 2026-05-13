@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Binary arithmetic for decimal computations: known problems"
+title: "Binary arithmetic for decimal computations:  problems"
 date: 2026-05-12
 author: Iouri Spiridonov
 ---
