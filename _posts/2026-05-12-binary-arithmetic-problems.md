@@ -29,7 +29,7 @@ Looking at the result, we cannot determine which digits are reliable. If a few m
 
 Rounding errors accumulate at every stage: during decimal-to-binary conversion of input data, during intermediate binary operations, and during binary-to-decimal conversion of the result.
 
-The standard makes no distinction between the nature of input data. Whether a number is the result of an exact count or a measurement — and therefore inherently approximate — IEEE 754 treats it as exact. The representation error of an approximate number in binary format is neither recorded nor propagated through subsequent computations.
+The standard makes no distinction between the nature of input data. Whether a number is the result of an exact count or a measurement — and therefore inherently approximate — IEEE 754 treats it as exact. The representation error of an approximate number in binary format is neither recorded nor tracked — and worse, it propagates and accumulates through every subsequent computation.
 
 ---
 
