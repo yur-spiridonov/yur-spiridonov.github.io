@@ -7,7 +7,7 @@ list_title: "Latest Posts"
 
 Newmarket, ON, Canada
 
-The IEEE 754 floating-point standard has served computing well for decades — but it carries fundamental limitations that become increasingly problematic in modern hardware design: subnormal number penalties, signed zero ambiguity, FPU dependency, and fixed precision.
+The IEEE 754 floating-point standard has served computing well for decades — but it carries fundamental limitations that become increasingly problematic in modern hardware design: subnormal number penalties, signed zero ambiguity, FPU dependency, and fixed precision. A more detailed look at the problems we see arising from the use of the IEEE 754 standard is presented in the post — [Binary arithmetic for decimal computations: problems](/2026/05/12/binary-arithmetic-problems/).
 
 This site presents research on an alternative approach: the **NPAt format** — a new representation of finite real numbers that addresses these limitations while remaining fully compatible with existing software. Alongside NPAt, this site is also where I publish shorter notes and reflections on numerical computing more broadly — not all of them tied to NPAt directly.
 
