@@ -32,7 +32,7 @@ This site presents research on an alternative approach: the **NPAt format** — 
 | [NPAt_algorithm](https://github.com/yur-spiridonov/NPAt_algorithm) | Full source code — open source |
 | [PresentationNPat](https://github.com/yur-spiridonov/PresentationNPat) | Verification results: NPAt vs IEEE 754 |
 | [Benchmark_Hardware-vs-NPAt-](https://github.com/yur-spiridonov/Benchmark_Hardware-vs-NPAt-) | Performance benchmark results |
-
+| [npat-calculator](https://github.com/yur-spiridonov/npat-calculator) | Free Windows calculator built on the NPAt format — binary distribution, no installation required |
 ---
 
 ## Other Projects
