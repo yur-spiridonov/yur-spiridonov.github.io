@@ -33,6 +33,7 @@ This site presents research on an alternative approach: the **NPAt format** — 
 | [PresentationNPat](https://github.com/yur-spiridonov/PresentationNPat) | Verification results: NPAt vs IEEE 754 |
 | [Benchmark_Hardware-vs-NPAt-](https://github.com/yur-spiridonov/Benchmark_Hardware-vs-NPAt-) | Performance benchmark results |
 | [npat-calculator](https://github.com/yur-spiridonov/npat-calculator) | Free Windows calculator built on the NPAt format — binary distribution, no installation required |
+
 ## Other Projects
 
 **[fast-float-compare](https://github.com/yur-spiridonov/fast-float-compare)** — a small, standalone header-only C++ library. Not part of the NPAt format; it's a general property of the IEEE 754 bit layout, useful on its own: a branchless equality check for `double`/`float` using a fixed, physically-motivated 1-ULP threshold instead of a caller-chosen epsilon.
